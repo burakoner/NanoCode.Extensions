@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NanoCode.Extensions", "src\NanoCode.Extensions\NanoCode.Extensions.csproj", "{1EE857E5-BE2D-448F-84DF-32318E364B5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DC4D4180-E852-4698-AC1B-898E65495F0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{06A1E6AE-29BA-474E-A045-151124FB53D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{B89E93DB-E94B-41A8-9680-5C712132129A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{73277459-C3FB-41EC-8E57-9C6053DE2B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanoCode.Extensions.Tests", "test\NanoCode.Extensions.Tests\NanoCode.Extensions.Tests.csproj", "{28D7FF37-7B29-4967-A9E5-3BFD4160A60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE857E5-BE2D-448F-84DF-32318E364B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE857E5-BE2D-448F-84DF-32318E364B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE857E5-BE2D-448F-84DF-32318E364B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE857E5-BE2D-448F-84DF-32318E364B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D7FF37-7B29-4967-A9E5-3BFD4160A60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D7FF37-7B29-4967-A9E5-3BFD4160A60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D7FF37-7B29-4967-A9E5-3BFD4160A60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D7FF37-7B29-4967-A9E5-3BFD4160A60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EE857E5-BE2D-448F-84DF-32318E364B5D} = {DC4D4180-E852-4698-AC1B-898E65495F0F}
+		{28D7FF37-7B29-4967-A9E5-3BFD4160A60B} = {73277459-C3FB-41EC-8E57-9C6053DE2B90}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8592E19E-8D32-413E-9DC9-AD5668D1C9D7}
+	EndGlobalSection
+EndGlobal
