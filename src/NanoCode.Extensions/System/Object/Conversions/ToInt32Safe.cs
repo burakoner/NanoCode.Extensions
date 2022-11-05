@@ -1,7 +1,7 @@
-using NanoCode.Extensions.Strings;
+using Nanocode.Extensions.Strings;
 using System;
 
-namespace NanoCode.Extensions.Objects
+namespace Nanocode.Extensions.Objects
 {
     public static partial class ExtensionMethods
     {

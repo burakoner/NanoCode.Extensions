@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Reflection;
 
-namespace NanoCode.Extensions
+namespace Nanocode.Extensions
 {
     public static partial class ExtensionMethods
     {

@@ -1,4 +1,4 @@
-namespace NanoCode.Extensions.Objects
+namespace Nanocode.Extensions.Objects
 {
     public static partial class ExtensionMethods
     {

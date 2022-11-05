@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Security.Cryptography;
 
-namespace NanoCode.Extensions
+namespace Nanocode.Extensions
 {
     public static partial class ExtensionMethods
     {

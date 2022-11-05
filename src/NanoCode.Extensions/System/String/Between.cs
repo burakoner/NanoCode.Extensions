@@ -1,6 +1,6 @@
 using System;
 
-namespace NanoCode.Extensions.Strings
+namespace Nanocode.Extensions.Strings
 {
     public static partial class ExtensionMethods
     {

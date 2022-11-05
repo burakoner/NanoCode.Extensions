@@ -1,8 +1,8 @@
-using NanoCode.Extensions.Objects;
+using Nanocode.Extensions.Objects;
 using System;
 using System.Text;
 
-namespace NanoCode.Extensions.Strings
+namespace Nanocode.Extensions.Strings
 {
     public static partial class ExtensionMethods
     {

@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace NanoCode.Extensions.Strings
+namespace Nanocode.Extensions.Strings
 {
     public static partial class ExtensionMethods
     {

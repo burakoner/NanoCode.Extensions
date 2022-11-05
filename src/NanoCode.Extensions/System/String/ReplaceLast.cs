@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace NanoCode.Extensions.Strings
+namespace Nanocode.Extensions.Strings
 {
     public static partial class ExtensionMethods
     {
